@@ -1,0 +1,40 @@
+.App {
+  max-width: 600px;
+  margin: auto;
+  padding: 2rem;
+}
+
+body {
+  font-family: "Lato", sans-serif;
+  background-color: #f7d2d2;
+}
+
+.btn {
+  background: white;
+  cursor: pointer;
+  border-radius: 0.5rem;
+  padding: 0.5rem 1rem;
+  border: 2px solid black;
+  margin: 1rem 0.3rem;
+  color: #4e882c;
+  font-weight: bold;
+}
+
+.btn:focus {
+  outline: none;
+  background: #e50914;
+  color: white;
+  border: 2px solid white;
+}
+
+.card {
+  background-color: #4e882c;
+  list-style: none;
+  padding: 1rem;
+  color: white;
+  border: 2px solid white;
+  width: 70%;
+  margin: 1rem 0rem;
+  border-radius: 0.5rem;
+  box-shadow: 0 4px 8px 0 rgb(0 0 0 / 20%), 0 6px 20px 0 rgb(0 0 0 / 19%);
+}
