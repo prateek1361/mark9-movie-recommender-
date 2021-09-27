@@ -46,7 +46,7 @@ const movies = {
   ],
   adventureMystery: [
     {
-      name: "Pirates of the carribeab 1",
+      name: "Pirates of the carribean 1",
       year: "2003",
       imdbScore: "8.0",
       actor: "Johnny depp,Orlando bloom"
@@ -78,10 +78,10 @@ const movies = {
       actor: "mark wahlberg"
     },
     {
-      name: "cavation",
+      name: "vacation",
       year: "2016",
       imdbScore: "6.9",
-      actor: "mark wahlberg"
+      actor: "ed helmes"
     }
   ]
 };
